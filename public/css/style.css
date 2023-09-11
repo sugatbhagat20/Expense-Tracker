@@ -1,0 +1,27 @@
+h1 {
+  padding-top: 10px;
+}
+
+#container {
+  text-align: center;
+  margin: 10% 30%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border: 2px solid #3a3131;
+  font-weight: bold;
+  border-radius: 5px;
+  background-color: pink;
+}
+
+#history {
+  margin: 10% 30%;
+  border: 2px solid #3a3131;
+  font-weight: bold;
+}
+
+ul {
+  text-align: left;
+}
+
+li:first-child {
+  margin-right: 10px;
+}
